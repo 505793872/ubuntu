@@ -1,7 +1,7 @@
 #!/bin/bash
-touch ~/.vimrc_test
+touch ~/.vimrc
 
-echo -e "set number\nset tabstop=4\nset softtabstop=4\nset shiftwidth=4\nset noexpandtab\nset autoindent" > ~/.vimrc_test
+echo -e "set number\nset tabstop=4\nset softtabstop=4\nset shiftwidth=4\nset noexpandtab\nset autoindent" > ~/.vimrc
 
 # set number：表示打开文件自动显示行号
 
